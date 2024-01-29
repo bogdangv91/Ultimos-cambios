@@ -5,3 +5,4 @@ print(type("hola mundo"))#tipo de dato str
 print(type(5))#tipo de dato int (entero)
 print(type(1.5))#tipo de dato float tipo de dato que no es entero.
 print(type(True))#tipo de dato bool 
+print("Hola mundo")
